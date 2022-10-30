@@ -16,7 +16,7 @@ if __name__ == '__main__':
             },
             {
                 "Name": "Aadhya",
-                "Type": "daffa",
+                "Type": "Good",
             },
             {
                 "Name": "Ajay",
