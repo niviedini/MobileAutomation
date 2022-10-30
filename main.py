@@ -12,7 +12,7 @@ if __name__ == '__main__':
     print(platform.system())
     info = [{
                 "Name": "Nivi",
-                "Type": "daffa",
+                "Type": "jaffa",
             },
             {
                 "Name": "Aadhya",
