@@ -1,9 +1,6 @@
 import os
 import platform
-
-
-def print_name(name, typ):
-    print(f"{name} is {typ}")
+from helpers.common import print_name
 
 
 if __name__ == '__main__':
